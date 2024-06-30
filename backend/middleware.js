@@ -1,4 +1,4 @@
-// https://github.com/100xdevs-cohort-2/paytm/blob/backend-solution/backend/routes/user.js
+
 
 const jwt = require('jsonwebtoken');
 const { JWT_SECRET } = require('./config');
