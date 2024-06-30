@@ -69,4 +69,4 @@ const transactionSchema =mongoose.Schema({
 const Transaction =  mongoose.model('Transaction',transactionSchema);
 module.exports = {User,Account,Transaction}
 
-// https://github.com/100xdevs-cohort-2/paytm/tree/backend-solution
+
